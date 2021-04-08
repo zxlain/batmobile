@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: academy.learnprogramming.Main
+Class-Path: jansi-1.18.jar jline-3.9.0.jar
+
